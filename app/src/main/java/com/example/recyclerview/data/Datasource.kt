@@ -1,7 +1,7 @@
 package com.example.recyclerview.data
 
-import com.example.affirmations.R
-import com.example.affirmations.model.Affirmation
+import com.example.recyclerview.R
+import com.example.recyclerview.model.Affirmation
 
 
 class Datasource {
