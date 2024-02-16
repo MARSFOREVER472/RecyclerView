@@ -12,7 +12,7 @@ _Para comenzar:_
 
 _To start:_
 
-What is a RecyclerView?
+**What is a RecyclerView?**
 
 - It is the ViewGroup that contains the views corresponding to your data.
 - It's a view in itself, so you add RecyclerView to your layout the same way you would add any other UI element.
