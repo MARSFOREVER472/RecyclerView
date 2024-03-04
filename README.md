@@ -16,4 +16,4 @@
 
 - **_It is the ViewGroup that contains the views corresponding to your data._**
 - **_It's a view in itself, so you add RecyclerView to your layout the same way you would add any other UI element._**
-- _Each individual list item is defined by a view container object._
+- **_Each individual list item is defined by a view container object._**
