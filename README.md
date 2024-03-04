@@ -10,7 +10,7 @@
 - **_Es una vista en sí misma, por lo que agregas RecyclerView a tu diseño de la misma manera en que agregarías cualquier otro elemento de la IU._**
 - **_Cada elemento individual de la lista está definido por un objeto contenedor de vistas._**
 
-_To start:_
+**_To start:_**
 
 **What is a RecyclerView?**
 
