@@ -2,7 +2,7 @@
 
 ## Codelab realizado para la clase de Desarrollo de soluciones móviles.
 
-**_Para comenzar:_**
+**_Antes de comenzar:_**
 
 **¿Qué es un RecyclerView?**
 
