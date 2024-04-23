@@ -6,7 +6,7 @@
 
 **¿Qué es un RecyclerView?**
 
-- **_Es el ViewGroup que contiene las vistas correspondientes a los datos._**
+- **_Es el ViewGroup que contiene las vistas correspondientes hacia los datos._**
 - **_Es una vista por sí misma, por lo que si agregas un RecyclerView a tu diseño de la misma manera en que agregarías cualquier otro elemento de la UI._**
 - **_Cada elemento individual de la lista está definido por un objeto llamado "contenedor de vistas"._**
 
