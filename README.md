@@ -1,6 +1,6 @@
 # **_RecyclerView_**
 
-### Codelab realizado para la clase de Desarrollo de soluciones móviles...
+### _Codelab realizado para la clase de Desarrollo de soluciones móviles..._
 
 **_Antes de comenzar:_**
 
